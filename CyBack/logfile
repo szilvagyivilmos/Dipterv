@@ -1,0 +1,21 @@
+2018-11-19 19:49:00.931 CET [10215] LOG:  could not bind IPv6 address "::1": Address already in use
+2018-11-19 19:49:00.931 CET [10215] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-11-19 19:49:00.931 CET [10215] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2018-11-19 19:49:00.931 CET [10215] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-11-19 19:49:00.931 CET [10215] WARNING:  could not create listen socket for "localhost"
+2018-11-19 19:49:00.932 CET [10215] FATAL:  could not create any TCP/IP sockets
+2018-11-19 19:49:00.932 CET [10215] LOG:  database system is shut down
+2018-11-19 19:49:08.258 CET [10219] LOG:  could not bind IPv6 address "::1": Address already in use
+2018-11-19 19:49:08.258 CET [10219] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-11-19 19:49:08.258 CET [10219] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2018-11-19 19:49:08.258 CET [10219] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-11-19 19:49:08.258 CET [10219] WARNING:  could not create listen socket for "localhost"
+2018-11-19 19:49:08.258 CET [10219] FATAL:  could not create any TCP/IP sockets
+2018-11-19 19:49:08.259 CET [10219] LOG:  database system is shut down
+2018-11-19 19:49:45.799 CET [10230] LOG:  could not bind IPv6 address "::1": Address already in use
+2018-11-19 19:49:45.799 CET [10230] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-11-19 19:49:45.799 CET [10230] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2018-11-19 19:49:45.799 CET [10230] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-11-19 19:49:45.799 CET [10230] WARNING:  could not create listen socket for "localhost"
+2018-11-19 19:49:45.799 CET [10230] FATAL:  could not create any TCP/IP sockets
+2018-11-19 19:49:45.799 CET [10230] LOG:  database system is shut down

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>8AA7029B-4D7E-4343-8587-A2EC52251FEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8AA7029B-4D7E-4343-8587-A2EC52251FEC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberSec project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberSec</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CyberSec with scheme CyberSec and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564347698.42245495</real>
+			<key>timeStoppedRecording</key>
+			<real>564347702.74398398</real>
+			<key>title</key>
+			<string>Building project CyberSec with scheme CyberSec and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8AA7029B-4D7E-4343-8587-A2EC52251FEC</string>
+		</dict>
+		<key>D1D46841-2967-4AA8-9E1C-A1CF0FA38DCB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D1D46841-2967-4AA8-9E1C-A1CF0FA38DCB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberSec project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberSec</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CyberSec with scheme CyberSec and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564347626.96980202</real>
+			<key>timeStoppedRecording</key>
+			<real>564347627.83476198</real>
+			<key>title</key>
+			<string>Building project CyberSec with scheme CyberSec and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D1D46841-2967-4AA8-9E1C-A1CF0FA38DCB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
